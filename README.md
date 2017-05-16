@@ -5,5 +5,6 @@ Planning and web page for RSG workshop
 * python code
 * etc.
  
-Fork of a fork
-Adding more changes
+## some comments
+* Fork of a fork
+* Adding more changes
